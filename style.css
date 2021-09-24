@@ -204,6 +204,11 @@ img {
     object-fit: cover;
 }
 
+.bgcma {
+    width: 100%;
+    object-fit: unset;
+}
+
 .project-title {
     font-size: 2rem;
     padding: 2rem 0.5rem;
